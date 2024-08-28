@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on App Projects
 - 📫 How to reach me Email
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Coding from age of 12
+- ⚡ Fun fact: Coding from age of 11
 
 <!---
 CodeWithJeet1204/CodeWithJeet1204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
